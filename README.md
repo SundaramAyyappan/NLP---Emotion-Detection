@@ -1,2 +1,2 @@
-# NLP---Emotion-Detection
-Tamil - English YouTube comments 
+# NLP-Emotion
+Tamil - English Sentiments
